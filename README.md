@@ -1,1 +1,1 @@
-# UET Code Camp
+# ML UET Course
